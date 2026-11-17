@@ -1,0 +1,39 @@
+id,url,platform,domain
+1,https://public.tableau.com/app/profile/mila.kholodii/viz/AmazonSalesOverview_17899965275850/AmaonSalesPerformance,Tableau Public,public.tableau.com
+2,https://public.tableau.com/app/profile/andreea.scintei/viz/CallCenterScorecardRWFD/CCScorecard,Tableau Public,public.tableau.com
+3,https://public.tableau.com/app/profile/nir.smilga/viz/OKRs_17336477924050/OKRsOverview,Tableau Public,public.tableau.com
+4,https://public.tableau.com/app/profile/ervin.vinzon/viz/XYZHREngagementScorecard/XYZHREngagementScorecard,Tableau Public,public.tableau.com
+5,https://public.tableau.com/profile/connecticut.state.data.center#!/vizhome/ConnecticutCOVID-19CaseTracking/CTdataCollaborativeCOVID-19,Tableau Public,public.tableau.com
+6,https://data.ct.gov/stories/s/COVID-19-data/wa3g-tfvc/,Socrata,data.ct.gov
+7,https://covid19.ncdhhs.gov/dashboard,Custom (Government Portal),covid19.ncdhhs.gov
+8,https://montgomerycountymd.gov/covid19/data,Custom (Government Portal),montgomerycountymd.gov
+9,https://data.who.int/dashboards/covid19/cases,Custom (WHO Data),data.who.int
+10,https://data.who.int/dashboards/covid19/hospitalizations,Custom (WHO Data),data.who.int
+11,https://data.who.int/dashboards/covid19/circulation,Custom (WHO Data),data.who.int
+12,https://www.cdc.gov/nssp/php/data-research/dashboards/index.html,Custom (CDC),cdc.gov
+13,https://data.austintexas.gov/d/f7dy-dbwi,Power BI,data.austintexas.gov
+14,https://ec.europa.eu/eurostat/cache/RCI/#?vis=nuts2.labourmarket&lang=en,Custom (Eurostat),ec.europa.eu
+15,https://play.grafana.org/d/ddkar8yanj56oa/visualizing-google-sheets-data,Grafana,play.grafana.org
+16,https://play.grafana.org/d/000000016/1-time-series-graphs?orgId=1,Grafana,play.grafana.org
+17,https://play.grafana.org,Grafana,play.grafana.org
+18,https://doh.wa.gov/data-and-statistical-reports/washington-tracking-network-wtn/communicable-disease-data/dashboard,Custom (Government Portal),doh.wa.gov
+19,https://doh.wa.gov/data-and-statistical-reports/diseases-and-chronic-conditions/communicable-disease-surveillance-data/respiratory-illness-data-dashboard,Custom (Government Portal),doh.wa.gov
+20,https://doh.wa.gov/data-statistical-reports/washington-tracking-network-wtn/tick-data/tick-dashboard,Custom (Government Portal),doh.wa.gov
+21,https://doh.wa.gov/data-and-statistical-reports/washington-tracking-network-wtn/988-suicide-crisis-lifeline-data/988-suicide-crisis-lifeline-data-dashboard,Custom (Government Portal),doh.wa.gov
+22,https://doh.wa.gov/data-statistical-reports/washington-tracking-network-wtn/marriage-and-divorce-data/marriage-and-divorce-dashboard,Custom (Government Portal),doh.wa.gov
+23,https://doh.wa.gov/about-us/executive-offices/health-and-science/disease-control-and-health-statistics/communicable-disease-epidemiology/zoonotic-and-vector-borne-disease-program/zoonotic-and-vector-borne-disease-dashboard,Custom (Government Portal),doh.wa.gov
+24,https://www.behealthysacramento.org/tiles/index/display?alias=Epidemiology_Dashboards,Custom (Government Portal),behealthysacramento.org
+25,https://dph.sc.gov/professionals/public-health-data/sc-tracking/tracking-asthma-dashboard,Custom (Government Portal),dph.sc.gov
+26,https://dph.sc.gov/professionals/public-health-data/sc-tracking/tracking-copd-dashboard,Custom (Government Portal),dph.sc.gov
+27,https://dph.sc.gov/professionals/public-health-data/sc-tracking/tracking-cancer-dashboard,Custom (Government Portal),dph.sc.gov
+28,https://dph.sc.gov/professionals/public-health-data/sc-tracking/tracking-childhood-lead-dashboard,Custom (Government Portal),dph.sc.gov
+29,https://dph.sc.gov/professionals/public-health-data/sc-tracking/tracking-drinking-water-dashboard,Custom (Government Portal),dph.sc.gov
+30,https://dph.sc.gov/professionals/public-health-data/sc-tracking/tracking-heat-related-illness-dashboard,Custom (Government Portal),dph.sc.gov
+31,https://dph.sc.gov/professionals/public-health-data/sc-tracking/tracking-life-expectancy-dashboard,Custom (Government Portal),dph.sc.gov
+32,https://dph.sc.gov/professionals/public-health-data/sc-tracking/tracking-lyme-disease-dashboard,Custom (Government Portal),dph.sc.gov
+33,https://dph.sc.gov/professionals/public-health-data/sc-tracking/tracking-oral-health-dashboard,Custom (Government Portal),dph.sc.gov
+34,https://dph.sc.gov/professionals/public-health-data/sc-tracking/tracking-radon-dashboard,Custom (Government Portal),dph.sc.gov
+35,https://dph.sc.gov/diseases-conditions/infectious-diseases/measles-rubeola/measles-dashboard,Custom (Government Portal),dph.sc.gov
+36,https://dph.sc.gov/diseases-conditions/infectious-diseases/respiratory-diseases/respiratory-disease-dashboard,Custom (Government Portal),dph.sc.gov
+37,https://dph.sc.gov/professionals/health-professionals/public-health-laboratory-phl/overdose-biosurveillance-dashboard,Custom (Government Portal),dph.sc.gov
+38,https://dph.sc.gov/professionals/public-health-data/childrens-health-assessment-survey-chas/chas-dashboard,Custom (Government Portal),dph.sc.gov
